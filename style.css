@@ -258,3 +258,7 @@ button.normal{
 #banner span{
     color: #ef3636;
 }
+#banner button:hover{
+    color: #fff;
+    background-color: #088178;
+}
