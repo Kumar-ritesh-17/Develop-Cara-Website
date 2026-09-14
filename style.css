@@ -313,3 +313,26 @@ button.white{
     background-color: #088178;
     border: 1px solid #088178;
 }
+#banner3 .banner-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-image: url(./img/banner/b7.jpg);
+    min-width: 30% ;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+#banner3 h2{
+    font-size: 22px;
+    font-weight: 900;
+    color: #fff;
+}
+#banner3 h3{
+    font-size: 15px;
+    font-weight: 800;
+    color: #ef3636;
+}
